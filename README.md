@@ -2,7 +2,7 @@
 
 Chief Product Officer. I run product as a P&L and build operating models where AI and agents are part of how the company works, not a feature bolted onto the side.
 
-I was CPO at iHeartMedia, where I led the move from a marketing-led to a product-led organization (iHeart Digital 2022-24: EBITDA +23% to $379M on 14% revenue growth), and CPO at WW International (WeightWatchers), where I owned the product line of the P&L and the subscription revenue drivers. Before that I led digital product at JPMorgan Chase, Nickelodeon and Outbrain. I am a named inventor on nine US patents and co-founded **ZeroFHE**, a fully homomorphic encryption IP company.
+I was CPO at iHeartMedia, where I led the move from a marketing-led to a product-led organization (iHeart Digital 2022-24: EBITDA +23% to $379M on 14% revenue growth), and CPO at WW International (WeightWatchers), where I owned the product line of the P&L and the subscription revenue drivers. Before that I led digital product at JPMorgan Chase, Nickelodeon and Outbrain. I am a named co-inventor on nine US patents and co-founded **ZeroFHE**, a fully homomorphic encryption IP company.
 
 ## What I work on
 
