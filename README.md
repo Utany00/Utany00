@@ -16,17 +16,16 @@ I love learning and keep my hands on the tools. This is where I build small thin
 
 | Repo | Status | What it is |
 |---|---|---|
-| [`govern-assessment`](https://github.com/utaknablein/govern-assessment) | [Live](https://utaknablein.github.io/govern-assessment/) | A self-assessment that gives leadership teams a readout on their AI operating model and one clear next step |
+| [`engine-diagnostic`](https://github.com/utaknablein/engine-diagnostic) | [Live](https://utaknablein.github.io/engine-diagnostic/) | An AI maturity self-assessment for leadership teams: six disciplines, four stages, and a 90-day plan built from the answers |
 | [`product-operating-system`](https://github.com/utaknablein/product-operating-system) | [Live](https://github.com/utaknablein/product-operating-system) | The templates and rubrics I use to run product: decision memos, product briefs, prioritization, decision velocity |
 | [`agent-workflows`](https://github.com/utaknablein/agent-workflows) | [Live](https://github.com/utaknablein/agent-workflows) | How I would set up agents to do leadership work: triggers, permissions, human checkpoints, and a scorecard |
 
 ## Frameworks I have developed
 
-Decision Velocity · GOVERN · ENGINE · Inflection Architecture · Architecture of Thinking
+Decision Velocity · ENGINE · GOVERN · Inflection Architecture · Architecture of Thinking
 
 ## Elsewhere
 
 - LinkedIn: [linkedin.com/in/utaknablein](https://www.linkedin.com/in/utaknablein)
 
 *Based in New York. Working in English and German.*
-
