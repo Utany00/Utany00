@@ -17,8 +17,8 @@ I love learning and keep my hands on the tools. This is where I build small thin
 | Repo | Status | What it is |
 |---|---|---|
 | [`govern-assessment`](https://github.com/utany00/govern-assessment) | [Live](https://utany00.github.io/govern-assessment/) | A self-assessment that gives leadership teams a readout on their AI operating model and one clear next step |
-| `product-operating-system` | Planned | The templates and rubrics I use to run product: decision memos, PRDs, prioritization |
-| `agent-workflows` | Planned | Prompts and agent setups I use day to day, with notes on what worked and what didn't |
+| [`product-operating-system`](https://github.com/utany00/product-operating-system) | [Live](https://github.com/utany00/product-operating-system)  | The templates and rubrics I use to run product: decision memos, product briefs, prioritization, decision velocity |
+| `agent-workflows` | Planned | Prompts and agent setups I use day to day, with notes on what worked and what did not |
 
 ## Frameworks I have developed
 
