@@ -13,6 +13,6 @@ I've built the version that doesn't hold, the repaint that looks like a rebuild.
 - [board-devils-advocate](https://github.com/utaknablein/board-devils-advocate) – an agent that argues against your board deck before the board does
 
 **Background**
-Former CPO at iHeartMedia and WW. Ran before that product experience at JPMorgan Chase, Nickelodeon, CNBC.com and Outbrain. Co-founder of [ZeroFHE](#), licensing fully homomorphic encryption IP.
+Former CPO at iHeartMedia and WW. Ran before that product experience at JPMorgan Chase, Nickelodeon, CNBC.com and Outbrain. Co-founder of [ZeroFHE](http://www.zerofhe.ai), licensing fully homomorphic encryption IP.
 
 Happy to compare notes on agents, FHE, or who owns the call when an agent makes it. 🙂
