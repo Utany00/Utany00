@@ -1,23 +1,18 @@
-Hi, I am Uta 👋
+# Hi, I'm Uta 👋
 
-Chief Product Officer. I run product as a P&L and build operating models where AI and agents are part of how the company works, not a feature bolted onto the side.
+I work on the structure underneath product: decision rights, what gets measured, who owns which call, and whether the data can be trusted enough to act on.
 
-I was CPO at iHeartMedia, where I led the move from a marketing-led to a product-led organization (iHeart Digital 2022-24: EBITDA +23% to $379M on 14% revenue growth), and CPO at WW International (WeightWatchers), where I owned the product line of the P&L and the subscription revenue drivers. Before that I led digital product at JPMorgan Chase, Nickelodeon and Outbrain. I am a named co-inventor on nine US patents and co-founded **ZeroFHE**, a fully homomorphic encryption IP company.
+AI doesn't transform organizations. Redesigning the systems AI operates in does.
 
-## What I work on
+I've built the version that doesn't hold, the repaint that looks like a rebuild. That's where I learned to tell the difference. Machine learning in product since 2015: recommendation and personalization at consumer scale, and most recently a customer data platform built to feed agentic systems.
 
-- **Product as capital allocation.** What gets funded, what gets cut, and how product investment shows up in margin.
-- **Decision velocity.** Why good organizations stall, and how to make fewer, better, faster calls.
-- **Agents in the operating model.** Every agent that touches a customer is a product decision, and someone has to own it.
-- **Challenge before the vote.** Boards rarely lack information. They lack someone whose job is to ask the hard question every time.
+**What's in here**
+- [engine-diagnostic](https://utaknablein.github.io/engine-diagnostic/) – a quick AI maturity check based on my ENGINE framework
+- [product-operating-system](https://github.com/utaknablein/product-operating-system) – how I structure product work end to end
+- [agent-workflows](https://github.com/utaknablein/agent-workflows) – experiments with agents doing real work, not demos
+- [board-devils-advocate](https://github.com/utaknablein/board-devils-advocate) – an agent that argues against your board deck before the board does
 
-## What is here
+**Background**
+Former CPO at iHeartMedia and WW. Ran before that product experience at JPMorgan Chase, Nickelodeon, CNBC.com and Outbrain. Co-founder of [ZeroFHE](#), licensing fully homomorphic encryption IP.
 
-I keep my hands on the tools. These are working versions of how I run product organizations.
-
-| Repo | Status | What it is |
-|---|---|---|
-| [`engine-diagnostic`](https://github.com/utaknablein/engine-diagnostic) | [Live](https://utaknablein.github.io/engine-diagnostic/) | An AI maturity diagnostic for leadership teams: six disciplines, four stages, and a 90-day plan built from the answers |
-| [`board-devils-advocate`](https://github.com/utaknablein/board-devils-advocate) | [Live](https://utaknablein.github.io/board-devils-advocate/) | An independent AI challenger that tests every board proposal through eight lenses before the meeting, and hands directors the questions to ask in the room |
-| [`product-operating-system`](https://github.com/utaknablein/product-operating-system) | [Live](https://github.com/utaknablein/product-operating-system) | How I decide what gets funded, what gets cut, and how we know it worked |
-| [`agent-workflows`](https://github.com/utaknablein/agent-workflows) | [Live](https://github.com/utaknablein/agent-workflows) | How I set up agents to do leadership work: triggers, permissions, human checkpoints, and a scorecard |
+Happy to compare notes on agents, FHE, or who owns the call when an agent makes it. 🙂
