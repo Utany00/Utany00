@@ -1,3 +1,5 @@
+![Uta Knablein - Product  |  Technology  |  Growth](banner.png)
+
 # Hi, I'm Uta 👋
 
 I work on the structure underneath product: decision rights, what gets measured, who owns which call, and whether the data can be trusted enough to act on.
