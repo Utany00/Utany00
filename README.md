@@ -1,4 +1,4 @@
-![Uta Knablein - Product  |  Technology  |  Growth](banner.png)
+![Uta Knablein - Product  |  Technology  |  Growth](banner_git.png)
 
 # Hi, I'm Uta 👋
 
