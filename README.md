@@ -16,7 +16,7 @@ My working answer: **judgment, coherence, and organizational design become more 
 
 ### [Question Before the Question](https://github.com/utaknablein/question-before-the-question)
 
-**AI answers what you ask. This check whether you are asking the right question in the first place.**
+**AI answers what you ask. This checks whether you are asking the right question in the first place.**
 
 A framework and prototype for surfacing hidden assumptions before they become decisions and execution.
 
