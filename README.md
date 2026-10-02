@@ -8,7 +8,7 @@ I build the operating systems that help companies turn strategy into growth: how
 
 This GitHub is my lab for one question:
 
-**What happens to management when machines make execution cheap?**
+What happens to management when machines make execution cheap?
 
 My working answer: **judgment, coherence, and organizational design become more valuable, not less.**
 
@@ -16,7 +16,7 @@ My working answer: **judgment, coherence, and organizational design become more 
 
 ### [Question Before the Question](https://github.com/utaknablein/question-before-the-question)
 
-**AI answers what you ask. This asks whether you are asking the right question in the first place.**
+**AI answers what you ask. This check whether you are asking the right question in the first place.**
 
 A framework and prototype for surfacing hidden assumptions before they become decisions and execution.
 
@@ -54,11 +54,8 @@ A diagnostic for whether an organization can actually carry AI transformation ra
 ## Background
 
 Former **Chief Product Officer at iHeartMedia and WW (WeightWatchers)**.
-
 Previously **JPMorgan Chase, Nickelodeon, CNBC.com, and Outbrain**.
-
-Named inventor on **nine US patents**.
-
+Machine learning in product since 2015: recommendation and personalization at consumer scale, and most recently a customer data platform built to feed agentic systems.
 Co-founder of [**ZeroFHE**](http://www.zerofhe.ai), licensing fully homomorphic encryption IP.
 
 **I build here to test ideas, not just write about them.**
