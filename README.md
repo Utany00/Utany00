@@ -6,7 +6,7 @@
 
 I work on the systems underneath product and AI: how companies frame decisions, assign authority, deploy agents, measure outcomes, and stay coherent as execution gets faster.
 
-I've built the version that doesn't hold, the repaint that looks like a rebuild. That's where I learned to tell the difference. Machine learning in product since 2015: recommendation and personalization at consumer scale, and most recently a customer data platform built to feed agentic systems.
+I have built the version that does not hold, the repaint that looks like a rebuild. That is where I learned to tell the difference. Machine learning in product since 2015: recommendations and personalization at consumer scale, and most recently a customer data platform built to feed agentic systems.
 
 This GitHub is my lab for one question: **what happens to management when machines make execution cheap?** My working answer: judgment, coherence and organizational design become more valuable, not less.
 
